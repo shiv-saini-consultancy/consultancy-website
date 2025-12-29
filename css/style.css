@@ -145,7 +145,7 @@ section img {
 /* Hero Section */
 .hero {
   position: relative;
-  background-image: url("../images/hero/consultation.jpg");
+  background-image: url("../images/hero/consulting.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -216,4 +216,5 @@ section img {
   background-color: #ffffff;
   color: #0f2a44;
 }
+
 
