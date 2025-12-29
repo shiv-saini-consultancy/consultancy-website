@@ -145,7 +145,7 @@ section img {
 /* Hero Section */
 .hero {
   position: relative;
-  background-image: url("images/hero/consultation.jpeg");
+  background-image: url("images/hero/consultation.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
